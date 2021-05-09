@@ -5,4 +5,4 @@ This utility performs the following 4 functions:
 3. Blur
 4. Cascade
 
-## Usage: python image_operations.py <path_to_img_file> <operation>
+## Usage:python image_operations.py <img_file> <Rescale, Grayscale, Blur, Cascade>
